@@ -1,0 +1,26 @@
+{
+  "name": "tedxucl-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.66",
+    "next": "^11.1.2",
+    "react": "17.0.2",
+    "react-confetti": "^6.0.1",
+    "react-countdown": "^2.3.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-use": "^17.3.1",
+    "sass": "^1.44.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
